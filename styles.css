@@ -99,3 +99,6 @@ select{
 .link-color {
     color: dimgray
 }
+.second-nav {
+    padding-top: 1rem;
+}
